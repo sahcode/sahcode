@@ -1,4 +1,4 @@
-## `<HelloWorld 🖖>`  I'm Sergi0 🦄
+## `<HelloWorld 🖖>`  I'm Sergio 🦄
 
 #### & I'm a Software Engineer based in Latam trying to be a recognized chef 👨‍🍳 , but while figuring out how to turning on the stove I happily develop software 🧑🏽‍💻
 
